@@ -2,7 +2,7 @@
 
 <h2>&#128196; Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
-</p>Trata-se de uma página virtual de aluguel de jogos.</p>
+</p>Trata-se de uma página virtual de aluguel de jogos para testar a interçao entre HTML e JavaScript.</p>
 
 ## &#128187; Tecnologias utilizadas:
 <div>
